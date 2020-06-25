@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hhoner89.eCommerce.Client.Admin", "hhoner89.eCommerce.Client.Admin.csproj", "{6BA29AF6-42AB-47B8-B117-C2EA13230B0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Documentation", "_Documentation", "{21C3C407-60D2-44AA-9F8F-F07C0D6B0ECA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Clients", "1. Clients", "{689B53F2-4F39-48BC-8ACB-D0E2BBC83060}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Managers", "2. Managers", "{ACD1D482-B353-468C-AEFE-A815D87F4B32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Engines", "3. Engines", "{C6269B01-1C03-428A-A20B-576BD51CEB09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Accessors", "4. Accessors", "{DCB79CC4-E377-4EF7-A4D8-622C891F8EEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hhoner89.eCommerce.Contracts.Admin", "..\hhoner89.eCommerce.Contracts.Admin\hhoner89.eCommerce.Contracts.Admin.csproj", "{BA0DF8BF-AF0D-48AD-BCA1-F71CDB6F19ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hhoner89.eCommerce.Contracts.WebStore", "..\hhoner89.eCommerce.Contracts.WebStore\hhoner89.eCommerce.Contracts.WebStore.csproj", "{63A627DF-D516-4806-8B18-A3399592F5AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hhoner89.eCommerce.Managers", "..\hhoner89.eCommerce.Managers\hhoner89.eCommerce.Managers.csproj", "{83032F9A-26FB-4436-A853-2FED5E61AFBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hhoner89.eCommerce.Engines", "..\hhoner89.eCommerce.Engines\hhoner89.eCommerce.Engines.csproj", "{14539B90-FC64-491F-8D36-2BBC2DE41FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hhoner89.eCommerce.Accessors", "..\hhoner89.eCommerce.Accessors\hhoner89.eCommerce.Accessors.csproj", "{0E5AA1E4-9E64-4226-92DC-07BFB883BB1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA29AF6-42AB-47B8-B117-C2EA13230B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA29AF6-42AB-47B8-B117-C2EA13230B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA29AF6-42AB-47B8-B117-C2EA13230B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA29AF6-42AB-47B8-B117-C2EA13230B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0DF8BF-AF0D-48AD-BCA1-F71CDB6F19ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0DF8BF-AF0D-48AD-BCA1-F71CDB6F19ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0DF8BF-AF0D-48AD-BCA1-F71CDB6F19ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0DF8BF-AF0D-48AD-BCA1-F71CDB6F19ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A627DF-D516-4806-8B18-A3399592F5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A627DF-D516-4806-8B18-A3399592F5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A627DF-D516-4806-8B18-A3399592F5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A627DF-D516-4806-8B18-A3399592F5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83032F9A-26FB-4436-A853-2FED5E61AFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83032F9A-26FB-4436-A853-2FED5E61AFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83032F9A-26FB-4436-A853-2FED5E61AFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83032F9A-26FB-4436-A853-2FED5E61AFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14539B90-FC64-491F-8D36-2BBC2DE41FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14539B90-FC64-491F-8D36-2BBC2DE41FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14539B90-FC64-491F-8D36-2BBC2DE41FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14539B90-FC64-491F-8D36-2BBC2DE41FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5AA1E4-9E64-4226-92DC-07BFB883BB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5AA1E4-9E64-4226-92DC-07BFB883BB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5AA1E4-9E64-4226-92DC-07BFB883BB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5AA1E4-9E64-4226-92DC-07BFB883BB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6BA29AF6-42AB-47B8-B117-C2EA13230B0F} = {689B53F2-4F39-48BC-8ACB-D0E2BBC83060}
+		{BA0DF8BF-AF0D-48AD-BCA1-F71CDB6F19ED} = {ACD1D482-B353-468C-AEFE-A815D87F4B32}
+		{63A627DF-D516-4806-8B18-A3399592F5AE} = {ACD1D482-B353-468C-AEFE-A815D87F4B32}
+		{83032F9A-26FB-4436-A853-2FED5E61AFBC} = {ACD1D482-B353-468C-AEFE-A815D87F4B32}
+		{14539B90-FC64-491F-8D36-2BBC2DE41FFC} = {C6269B01-1C03-428A-A20B-576BD51CEB09}
+		{0E5AA1E4-9E64-4226-92DC-07BFB883BB1A} = {DCB79CC4-E377-4EF7-A4D8-622C891F8EEB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C814DBB4-D895-4C38-8D35-7BCD3770BC6B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qB1L2bgMyrui7LOUW1wgupSwuz4i5h42WfLDZ3ae99cFrANv8kkIgJEhAq8k7ShAhrMIuEiSMRMZ+GVVJRAzfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NEDL\\Desktop\\NeDL\\Visual Studio\\hhoner89.eCommerce\\hhoner89.eCommerce.Contracts.Admin\\hhoner89.eCommerce.Contracts.Admin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NEDL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
